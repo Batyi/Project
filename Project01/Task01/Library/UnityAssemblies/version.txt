@@ -1,0 +1,7 @@
+5.4.1f1:2.3.0.0
+StandaloneWindows64
+D:/Auca/GameD/unity/Editor/Data/Managed/UnityEngine.dll
+D:/Auca/GameD/unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/Auca/GameD/unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/Auca/GameD/unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+D:/Auca/GameD/unity/Editor/Data/Managed/UnityEditor.dll
